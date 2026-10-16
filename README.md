@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Banner superior verde estilo Ferxxo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=FERXXO%20VIBES%20⚡&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=VicenteHego%20⚡&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h1>¡Hola, soy Vicente! 👋</h1>
+  <h1>¡Hola, soy Vicente! </h1>
   <h3>💻 Computer Systems Engineer | Desarrollador & System Admin</h3>
 </div>
 
