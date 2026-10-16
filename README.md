@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Puedes cambiar este enlace por un GIF animado estilo neón verde si encuentras uno que te guste -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=FERXXO%20VIBES%20⚡&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNndmdhZ252MmJyYmNra3A1Y2Z6OXloeGMyNmM4bzQzNG91NmYwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif" width="100%" />
 
   <h1>¡Hola, soy Vicente! 👋</h1>
   <h3>💻 Computer Systems Engineer | Desarrollador & System Admin</h3>
