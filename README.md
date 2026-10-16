@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <!-- Primer GIF que elegiste -->
+  <!-- Primer GIF -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV4Zm5iaWtmMHI4cXZzb3F6NjlsYW9qN2Vnc2UxbzRsNmp2dTlsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="350px" />
 </div>
 
@@ -35,8 +35,8 @@
 ---
 
 <div align="center">
-  <!-- Segundo espacio para GIF (por si quieres poner otro diferente ahí) -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzV4Zm5iaWtmMHI4cXZzb3F6NjlsYW9qN2Vnc2UxbzRsNmp2dTlsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="350px" />
+  <!-- Segundo GIF que acabas de enviar -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ2Z3Z6c3l0NmFoYTBjc3h0Y2Rjc3ZzZ3c4ejdwdW1od3l2bzlhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QD9gYLpotzGIFVzUYj/giphy.gif" width="350px" />
 </div>
 
 ---
