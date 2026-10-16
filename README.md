@@ -1,13 +1,16 @@
 <div align="center">
+  <!-- Puedes cambiar este enlace por un GIF animado estilo neón verde si encuentras uno que te guste -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=FERXXO%20VIBES%20⚡&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+
   <h1>¡Hola, soy Vicente! 👋</h1>
-  <h3>💻 Computer Systems Engineer | Desarrollador de Software & Sistemas</h3>
+  <h3>💻 Computer Systems Engineer | Desarrollador & System Admin</h3>
 </div>
 
 ---
 
 ### 🚀 Sobre mí
-* 🔭 Actualmente me encuentro desarrollando y gestionando sistemas de software personalizados, incluyendo aplicaciones de control de accesos y punto de venta.
-* ⚡ Amante de la tecnología, el hardware de PC, la optimización de sistemas Linux/Windows y la automatización.
+* 🔭 Actualmente desarrollando sistemas de software personalizados y control de accesos.
+* ⚡ Apasionado por la tecnología, el hardware, las terminales Linux y la buena música.
 
 ---
 
@@ -24,15 +27,18 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
+### 📊 Estadísticas con Estilo Green
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicenteHego&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Tarjetas con estadísticas adaptadas a tonos oscuros y verdes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VicenteHego&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicenteHego&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicenteHego&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📫 ¿Cómo contactarme?
-* **GitHub:** [@VicenteHego](https://github.com/VicenteHego)
+<div align="center">
+  <!-- Insignia o separador inferior con verde neón -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=4&section=footer" width="100%" />
+  <p>💚 <i>Keep it Green, Mor</i> 💚</p>
+</div>
