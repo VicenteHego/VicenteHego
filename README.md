@@ -1,8 +1,8 @@
 <div align="center">
-  <!-- Banner superior verde estilo Ferxxo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=VicenteHego%20⚡&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Banner superior con fondo negro (000000) y texto en verde neón (00FF66) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=header&text=FERXXO%20VIBES%20⚡&fontSize=35&fontColor=00FF66&fontAlignY=38&animation=fadeIn" width="100%" />
 
-  <h1>¡Hola, soy Vicente! </h1>
+  <h1>¡Hola, soy Vicente! 👋</h1>
   <h3>💻 Computer Systems Engineer | Desarrollador & System Admin</h3>
 </div>
 
@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-  <!-- Segundo GIF que acabas de enviar -->
+  <!-- Segundo GIF -->
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ2Z3Z6c3l0NmFoYTBjc3h0Y2Rjc3ZzZ3c4ejdwdW1od3l2bzlhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QD9gYLpotzGIFVzUYj/giphy.gif" width="350px" />
 </div>
 
@@ -51,6 +51,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=4&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=footer" width="100%" />
   <p>💚 <i>Keep it Green, Mor</i> 💚</p>
 </div>
