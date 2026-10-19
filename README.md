@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Banner superior con fondo negro (000000) y texto en verde neón (00FF66) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=header&text=FERXXO%20VIBES%20⚡&fontSize=35&fontColor=00FF66&fontAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=130&section=header&text=VicenteHego⚡&fontSize=35&fontColor=00FF66&fontAlignY=38&animation=fadeIn" width="100%" />
 
-  <h1>¡Hola, soy Vicente! 👋</h1>
-  <h3>💻 Computer Systems Engineer | Desarrollador & System Admin</h3>
+  <h1>¡Hola, soy Vicente! </h1>
+  <h3>💻 Computer Systems Engineer | Ingeniero en Sistemas Computacionales </h3>
 </div>
 
 ---
@@ -15,9 +15,9 @@
 
 ---
 
-### 🚀 Sobre mí
-* 🔭 Actualmente desarrollando sistemas de software personalizados y control de accesos.
-* ⚡ Apasionado por la tecnología, el hardware, las terminales Linux y la buena música.
+###  Sobre mí
+*  Actualmente desarrollando sistemas de software personalizados y control de accesos.
+*  Apasionado por la tecnología, el hardware, las terminales Linux y la buena música.
 
 ---
 
